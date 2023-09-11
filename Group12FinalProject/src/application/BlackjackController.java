@@ -4,7 +4,7 @@
  * This is a fully functioning Blackjack simulator.
  * It consists of one player (the user) and one AI (the dealer)
  * You can enter an amount to bet and see your earnings just below that
- * The options during play are: hit, stand, and double down
+ * The options during play are to: hit, stand, and double down
  * Splitting is currently not allowed
   //
  * 
